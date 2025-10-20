@@ -1,21 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Demo on My Hugo Blog</title>
-    <link>http://localhost:1313/categories/demo/</link>
-    <description>Recent content in Demo on My Hugo Blog</description>
-    <generator>Hugo -- 0.151.2</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Mon, 20 Oct 2025 10:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/demo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello Hugo (封面 / 目录 / 数学示例)</title>
-      <link>http://localhost:1313/posts/hello-hugo/</link>
-      <pubDate>Mon, 20 Oct 2025 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello-hugo/</guid>
-      <description>&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Demo on My Hugo Blog</title><link>https://caoziying.github.io/categories/demo/</link><description>Recent content in Demo on My Hugo Blog</description><generator>Hugo -- 0.151.2</generator><language>zh-cn</language><lastBuildDate>Mon, 20 Oct 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://caoziying.github.io/categories/demo/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello Hugo (封面 / 目录 / 数学示例)</title><link>https://caoziying.github.io/posts/hello-hugo/</link><pubDate>Mon, 20 Oct 2025 10:00:00 +0800</pubDate><guid>https://caoziying.github.io/posts/hello-hugo/</guid><description>&lt;blockquote&gt;
 &lt;p&gt;这是一个最小示例，演示：&lt;strong&gt;封面图&lt;/strong&gt;、&lt;strong&gt;目录（TOC）&lt;/strong&gt;、&lt;strong&gt;数学公式&lt;/strong&gt;、&lt;strong&gt;摘要分隔&lt;/strong&gt; 等功能。&lt;/p&gt;
-&lt;/blockquote&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;/blockquote&gt;</description></item></channel></rss>
