@@ -2,22 +2,22 @@
   {
     "name": "RagMemorySys",
     "description": "多租户对话记忆 RAG 微服务，支持多 Agent 并发、向量检索与记忆压缩。",
-    "tech": "Python, RAG, MCP, PostgreSQL",
-    "stars": null,
+    "tech": "Python, RAG, MCP, Milvus，消息队列",
+    "stars": 2,
     "url": "https://github.com/caoziying/RagMemorySys"
   },
   {
-    "name": "DITA-MOA-Koff",
-    "description": "多智能体协同推理框架（MOA），结合动态记忆与专家路由优化复杂任务表现。",
-    "tech": "Python, Multi-Agent, DITA",
+    "name": "Multi-Granularity Cross-Attention Mixture-of-Experts for Protein--Ligand Dissociation Kinetics Prediction",
+    "description": "多粒度专家级交叉注意力蛋白配体解离常数预测",
+    "tech": "Python, Pytorch，MoE，ESM2，MorgenFinger",
     "stars": null,
-    "url": "https://github.com/caoziying/DITA-MOA-Koff"
+    "url": "https://github.com/caoziying/koff"
   },
   {
-    "name": "CProR",
-    "description": "医疗场景问答与检索增强系统，支持病例文档解析、RAG 检索与响应优化。",
-    "tech": "RAG, NLP, Python",
-    "stars": null,
-    "url": "https://github.com/caoziying/CProR"
+    "name": "LeetCode 题单导航助手",
+    "description": "在 LeetCode 题单讨论页面左侧自动生成目录导航，支持快速定位和搜索标题。",
+    "tech": "",
+    "stars": 13,
+    "url": "https://github.com/caoziying/leetcode-nav-extension"
   }
 ]
