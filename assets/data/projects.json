@@ -1,10 +1,10 @@
 [
   {
-    "name": "DITA-MOA-Koff",
-    "description": "多智能体协同推理框架（MOA），结合动态记忆与专家路由优化复杂任务表现。",
-    "tech": "Python, Multi-Agent, DITA",
-    "stars": null,
-    "url": "https://github.com/caoziying/DITA-MOA-Koff"
+    "name": "RagMemorySys",
+    "description": "多租户对话记忆 RAG 微服务，支持多并发、向量检索与记忆压缩。",
+    "tech": "Python, RAG, MCP, Milvus",
+    "stars": 2,
+    "url": "https://github.com/caoziying/RagMemorySys"
   },
   {
     "name": "Multi-Granularity Cross-Attention Mixture-of-Experts for Protein--Ligand Dissociation Kinetics Prediction",
